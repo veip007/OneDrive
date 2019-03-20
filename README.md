@@ -17,7 +17,7 @@ UPDATE:
 
 # Install
 ```
-wget --no-check-certificate -qO- "https://raw.githubusercontent.com/0oVicero0/OneDrive/master/OneDrive.sh" |bash
+wget --no-check-certificate -qO- "https://raw.githubusercontent.com/veip007/OneDrive/master/OneDrive.sh" |bash
 
 ```
 # Authorize
